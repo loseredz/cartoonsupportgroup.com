@@ -52,3 +52,9 @@
     top: 260px;
     left: 780px;
 }
+
+#cockroach {
+    position: fixed;
+    top: 550px;
+    left: 800px;
+}
