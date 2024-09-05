@@ -26,3 +26,9 @@
     top: 400px;
     left: 100px;
 }
+
+#jacket {
+    position: fixed;
+    top: 32 0px;
+    left: 550px;
+}
