@@ -3,3 +3,30 @@ b {
     font-family: "Arial";
     font-size: 24px;
 }
+
+#loseredsBooksona {
+    position: fixed;
+    top: 220px;
+    left: 20px;
+
+    width:200px;
+    height:200px
+}
+
+#guyfieri {
+    position: fixed;
+    top: 220px;
+    left: 300px;
+
+    width:240px;
+    height:320px;
+}
+
+#mikaylaCollie {
+    position: fixed;
+    top: 400px;
+    left: 100px;
+
+    width:200px;
+    height:200px;
+}
