@@ -3,7 +3,7 @@
     z-index: 1;
 
     color: rgb(255, 255, 255);
-    filter: drop-shadow(10px 10px 4px #000000);
+    filter: drop-shadow(10px 10px 10px #0000007F);
     font-family: "Arial";
     font-size: 24px;
     z-index: 10;
