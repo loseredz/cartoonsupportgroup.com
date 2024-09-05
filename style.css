@@ -2,6 +2,7 @@ b {
     color: rgb(255, 255, 255);
     font-family: "Arial";
     font-size: 24px;
+    z-index: 10;
 }
 
 #loseredsBooksona {
