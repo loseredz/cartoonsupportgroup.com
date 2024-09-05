@@ -9,6 +9,8 @@
     z-index: 10;
 }
 
+/* surely theres a better way to do this :clueless: (im too lazy to make it better lmao) */
+
 #loseredsBooksona {
     position: fixed;
     top: 220px;
@@ -43,4 +45,10 @@
     position: fixed;
     top: 650px;
     left: 280px;
+}
+
+#jetLaggers {
+    position: fixed;
+    top: 260px;
+    left: 780px;
 }
